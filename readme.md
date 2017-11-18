@@ -12,5 +12,5 @@ the structure of the classes as the following:
 
 the routes exist at "Routes/web.php"
 usually for RESTFUL API i put it at "Routes/api.php" but the routes should start with "api/"
-as you requested to use routes without "api/" i moved to "Routes/web.php" but i stoped the CSRF protection to can enable post requests
+as you requested to use routes without "api/" i moved to "Routes/web.php" but i stopped the CSRF protection to enable post requests
 
